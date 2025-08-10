@@ -21,8 +21,7 @@ source ~/.bashrc
 
 ## 3. 🚀 Start the Node in a New Screen
 ```bash
-curl https://cli.nexus.xyz/ | sh
-source ~/.bashrc
+nexus-cli start --node-id <your-node-id>
 ```
 
 ---
